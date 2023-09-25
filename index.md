@@ -15,6 +15,13 @@
     <code> var myVar = "Hello, world!";
           alert(myVar); </code>
   </div>
+  <div>
+    <ul type="square">
+   <li>Navy Pier</li>
+    <li>River Walk</li>
+    <li>Chicago Bean</li>
+    <li>Trump Towers"</li>
+    </ul>
 </body>
 </html>
 
