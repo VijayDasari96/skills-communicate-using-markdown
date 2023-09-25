@@ -8,7 +8,13 @@
 6 <h6>Chicago made noted contributions to urban planning and architecture, such as the Chicago School, the development of the City Beautiful Movement, and the steel-framed skyscraper.</h6>
 </header>
 <body>
-  <img src="https://octodex.github.com/images/yaktocat.png" alt="Chicago" style="width:500px;height:500px;>
+  <div>
+    <img src="https://octodex.github.com/images/yaktocat.png" alt="Chicago" style="width:500px;height:500px;></img>
+  </div>
+  <div>
+    <code> var myVar = "Hello, world!";
+          alert(myVar); </code>
+  </div>
 </body>
 </html>
 
