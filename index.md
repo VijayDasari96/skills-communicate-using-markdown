@@ -7,6 +7,9 @@
 5 <h5>It grew rapidly in the mid-19th century.In 1871, the Great Chicago Fire destroyed several square miles and left more than 100,000 homeless, but Chicago's population continued to grow.</h5>
 6 <h6>Chicago made noted contributions to urban planning and architecture, such as the Chicago School, the development of the City Beautiful Movement, and the steel-framed skyscraper.</h6>
 </header>
+<body>
+  <img src="https://octodex.github.com/images/yaktocat.png" alt="Chicago" style="width:500px;height:500px;>
+</body>
 </html>
 
 
